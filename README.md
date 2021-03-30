@@ -1,2 +1,4 @@
-# foundryvtt-swn
-Unofficial Stars Without Number system for Foundry VTT.
+# Stars Without Number System for Foundry VTT
+Unofficial Stars Without Number System for Foundry VTT.
+
+## Licenses
